@@ -1,2 +1,2 @@
 # FourierTuna
-An acoustic guitar tuner using MATLAB
+Guitar tuner using fast fourier transform (FFT)
